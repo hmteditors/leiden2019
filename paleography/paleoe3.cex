@@ -10,14 +10,14 @@ urn:cite2:hmt:paleo.v1:leiden_e3_8#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@ρ[
 urn:cite2:hmt:paleo.v1:leiden_e3_9#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@η[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.2887,0.3146,0.007576,0.01705#
 urn:cite2:hmt:paleo.v1:leiden_e3_10#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@σ[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.2970,0.3221,0.005728,0.007761#
 urn:cite2:hmt:paleo.v1:leiden_e3_11#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@o[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3026,0.3219,0.004897,0.007345#
-urn:cite2:hmt:paleo.v1:leiden_e3_12#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@ε[2]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3079,0.3223,0.007668,0.007761#
+urn:cite2:hmt:paleo.v1:leiden_e3_12#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@σ[2]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3079,0.3223,0.007668,0.007761#
 urn:cite2:hmt:paleo.v1:leiden_e3_13#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@β[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3181,0.3218,0.006929,0.007761#
 urn:cite2:hmt:paleo.v1:leiden_e3_14#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@α[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3248,0.3229,0.008222,0.006652
 urn:cite2:hmt:paleo.v1:leiden_e3_15#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@σ[3]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3329,0.3229,0.005266,0.006652
 urn:cite2:hmt:paleo.v1:leiden_e3_16#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@ι[2]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3375,0.3135,0.002956,0.01677#
 urn:cite2:hmt:paleo.v1:leiden_e3_17#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@λ[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3429,0.3218,0.007761,0.01247#
 urn:cite2:hmt:paleo.v1:leiden_e3_18#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@ευ[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3506,0.3201,0.007021,0.01039#ligature
-urn:cite2:hmt:paleo.v1:leiden_e3_19#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@σ[4]urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3566,0.3241,0.006744,0.006375#
+urn:cite2:hmt:paleo.v1:leiden_e3_19#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@σ[4]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3566,0.3241,0.006744,0.006375#
 urn:cite2:hmt:paleo.v1:leiden_e3_20#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@π[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3643,0.3236,0.01192,0.01109#
 urn:cite2:hmt:paleo.v1:leiden_e3_21#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@α[2]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3758,0.3248,0.006098,0.006375#
 urn:cite2:hmt:paleo.v1:leiden_e3_22#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@ι[3]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.3818,0.3259,0.003326,0.006375#
@@ -29,6 +29,7 @@ urn:cite2:hmt:paleo.v1:leiden_e3_27#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@ν
 urn:cite2:hmt:paleo.v1:leiden_e3_28#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@η[3]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.4248,0.3200,0.008315,0.01414#
 urn:cite2:hmt:paleo.v1:leiden_e3_29#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@ο[3]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.4332,0.3268,0.003973,0.006790#
 urn:cite2:hmt:paleo.v1:leiden_e3_30#urn:cts:greekLit:tlg0012.tlg001.e3:10.435@σ[6]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.4391,0.3266,0.009331,0.008315#
+
 urn:cite2:hmt:paleo.v1:leiden_e3_31#urn:cts:greekLit:tlg0012.tlg001.e3:10.459@κ[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.5145,0.3247,0.006375,0.01192#
 urn:cite2:hmt:paleo.v1:leiden_e3_32#urn:cts:greekLit:tlg0012.tlg001.e3:10.459@α[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.5197,0.3266,0.006559,0.009424#
 urn:cite2:hmt:paleo.v1:leiden_e3_33#urn:cts:greekLit:tlg0012.tlg001.e3:10.459@ι[1]#urn:cite2:hmt:e3bifolio.v1:E3_133v_134r@0.5261,0.3293,0.002494,0.007483#
