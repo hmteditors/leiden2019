@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>Manon Junggeburt</editor>
-        <editor>Yuri Hesselink</editor>
-        <editor>Lisa Seldenthuis</editor>
         <editor>Dante Aramideh</editor>
+        <editor>Yuri Hesselink</editor>
+        <editor>Manon Junggeburt</editor>
+        <editor>Lisa Seldenthuis</editor>
         <editor>Femke de Vries</editor>
-
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
@@ -71,7 +69,6 @@
         <l n="480">ἑστάμεναι μέλεον σὺν τεύχεσιν- ἀλλὰ λύ’ ἵππους-</l>
         <l n="481">ἠὲ σύ γ’ ἄνδρας ἔναιρε, μελήσουσι δέ μοι ἵπποι-</l>
         <l n="482">Ὣς φάτο- τῷ δ’ ἔμπνευσε μένος γλαυκῶπις <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθήνη</persName>-</l>
-
       </div>
     </body>
   </text>

@@ -9,7 +9,7 @@ Leiden work on Upsilon 1.1 (`e3`) and Venetus B (`vb`).
 * https://github.com/hmteditors/leiden2019#special-characters
 * https://github.com/hmteditors/leiden2019#useful-links
 
-## Second editing assignment
+## Current editing assignment
 
 (posted 12 Feb. 2019)
 
@@ -119,6 +119,7 @@ Other repositories:
 * https://github.com/hmteditors/2018-office5
 * https://github.com/hmteditors/2018-office8
 * https://github.com/hmteditors/2018-office10
+* https://github.com/hmteditors/leiden2018-alpha
 
 [(return to top)](https://github.com/hmteditors/leiden2019#leiden2019)
 
