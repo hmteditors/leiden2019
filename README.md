@@ -111,6 +111,7 @@ git config --local user.email "github e-mail address"
 * https://homermultitext.github.io/chsseminar/scholion-markers/
 * https://homermultitext.github.io/facsimiles/
 * https://homermultitext.github.io/hmt-docs/tech/
+* https://github.com/homermultitext/hmt-textmodel/wiki/TEI-elements
 * https://interwing.nl/hmt/
 * https://homermultitext.slack.com
 
