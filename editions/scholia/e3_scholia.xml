@@ -149,10 +149,13 @@
               <p><num value="12">ιβ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.460</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>διδάσκει τῶν κατορθουμένων. αἴτιον τὸ θεῖον οἴεσθαι-
+              καὶ τὸ ἐπίθετον δὲ οἰκεῖον τῷ καιρῷ
+              ἐκ τῆς πράξεως εἰλημμένον-
+              οἰκείως δὲ φονεύει μὲν <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> ἀνατίθησι δὲ <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεύς</persName>⁑</p>
             </div>
           </div>
           <div n="134r" type="scholion">
@@ -160,10 +163,13 @@
               <p><num value="13">ιγ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.461</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>πανταχόθεν ἐκίνησε τὴν ἐνέργαιαν ἐκ τοῦ ἱκετεύειν μέλλοντος-
+                        ἐκ τῶν διακοπομένων ἀθρόως τενόντων-
+                        ἐκ τῆς φθεγγομένησ κεφαλῆς μετὰ τὸ πεσεῖν-
+                        ἐκ τοῦ σκυλεύοντος τὰ ὅπλα καὶ εἰς ὕψος ἀνέχοντος⁑</p>
             </div>
           </div>
           <div n="134r" type="scholion">
@@ -171,10 +177,10 @@
               <p><num value="14">ιδ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.463</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ἐπιδόσεων καὶ δώρων ἀξιώσομεν- προτρεπικὸν δὲ τοῦτο εἰς συμμαχίαν⁑</p>
             </div>
           </div>
           <div n="134r" type="scholion">
@@ -182,10 +188,12 @@
               <p><num value="15">ιε</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.473</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ἵνα ὦσι τρία τάγματα πρὸ <persName n="urn:cite2:hmt:pers.v1:pers452">Ῥήσου</persName>-
+                                            ἀφ ὧν ἑκάστου τεσσαρες ἄνδρες ἀναιρουνται-
+                                            τρισκαιδέκατος δὲ <persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσος</persName>⁑</p>
             </div>
           </div>
           <div n="134r" type="scholion">
