@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Scholia to Escorial Upsilon 1.1</title>
-        <author>YOUR NAME</author>
-        <author>YOUR NAME</author>
+        <author>Eric Boot</author>
+        <author>Iris van Kuijk</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -29,7 +29,7 @@
             <div n="comment">
               <p><persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσος</persName> <persName n="urn:cite2:hmt:pers.v1:pers539">Στρυμόνος</persName>  τοῦ ποταμοῦ <placeName n="urn:cite2:hmt:place.v1:place70">Θράκης</placeName>- καὶ ἐυτέρπης τῆς μούσης ὑιός -
                 ἱστορεῖ δὲ <persName n="urn:cite2:hmt:pers.v1:pers5">Πίνδαρος</persName> ὅτι καὶ μίαν ἡμέραν πολεμήσας πρὸς <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3"> Ἕλληνες</rs>. μέγιστα αὐτοῖς ἐν εδείξατο κακά -
-                κατὰ δὲ θειάν πρόνοιαν νυκτὸς αὐτὸν <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> ἀναιρεῖ</p>
+                κατὰ δὲ θειάν πρόνοιαν νυκτὸς αὐτὸν <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> ἀναιρεῖ⁑</p>
             </div>
           </div>
           <div n="133v" type="scholion">
@@ -37,10 +37,12 @@
               <p><num value="2">β</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.436</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ὡς φίλιππος κἀκείνους ἐσκόπησε - κινδυνεύει γὰρ. δὶα ἵππους -
+                ἢ ὡς μέγιστα χαριζόμενος ἀντὶ τῆς ἰδίας ψυχῆς - τουσοῦτον δὲ ἀπέσχε τοῦ λαβεῖν ἵππους,
+                ὅτι καὶ τῶν ἐν τῷ ἰδίῳ στρατοπέδιῳ καλλίστων προδότης ἐγένετο⁑</p>
             </div>
           </div>
           <div n="133v" type="scholion">
@@ -48,7 +50,7 @@
               <p><num value="3">γ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.437</p>
             </div>
             <div n="comment">
               <p></p>
