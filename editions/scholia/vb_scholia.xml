@@ -30,7 +30,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.435</p>
             </div>
             <div n="comment">
-              <p><persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσος</persName> Στρυμόνος τοῦ ποταμοῦ Θράκης καὶ <persName n="urn:cite2:hmt:pers.v1:pers567">Εὐτέρπης</persName> τῆς μούσης υἱός- ἱστορεῖ δὲ <persName n="urn:cite2:hmt:pers.v1:pers5">Πίνδαρος</persName> ὅ τι καὶ μίαν ἡμέραν πολεμήσας πρὸς Ἔλληνας, μέγιστα αὐτοῖς ἀνεδείξατο κακά- κατὰ δὲ θείαν πρόνοια, νυκτὸς αὐτὸν <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> ἀναιρεῖ ⁑</p>
+              <p><persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσος</persName> Στρυμόνος τοῦ ποταμοῦ Θράκης καὶ <persName n="urn:cite2:hmt:pers.v1:pers567">Εὐτέρπης</persName> τῆς μούσης υἱός- ἱστορεῖ δὲ <persName n="urn:cite2:hmt:pers.v1:pers5">Πίνδαρος</persName> ὅ τι καὶ μίαν ἡμέραν πολεμήσας πρὸς <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἔλληνας</rs>, μέγιστα αὐτοῖς ἀνεδείξατο κακά- κατὰ δὲ θείαν πρόνοια, νυκτὸς αὐτὸν <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> ἀναιρεῖ ⁑</p>
             </div>
 
           </div>
@@ -87,7 +87,7 @@
                  <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.442</p>
                </div>
                <div n="comment">
-                 <p>πέπεισται ὅτι μέγιστα ἀυτῆν ἐχαρίσατο, καἰ ἐπὶ μαρτυρίαν πιστὴν κατέρχεται- εἰ γὰρ μὴ τοῦτο προσέθηκας, εὐήθεις ἂν ἦσαν οἱ ἐπὶ Διομήδην πίστευσαντες ἀυτῷ καὶ εἰς τοὺς Τρῶας παρελθόντες- δῆλον γὰρ ὡς οὐκ ἠπάτα φυλάττεσθαι παρὰ τοῖς πολεμΐοις μέλλων ⁑</p>
+                 <p>πέπεισται ὅτι μέγιστα ἀυτῆν ἐχαρίσατο, καἰ ἐπὶ μαρτυρίαν πιστὴν κατέρχεται- εἰ γὰρ μὴ τοῦτο προσέθηκας, εὐήθεις ἂν ἦσαν οἱ ἐπὶ <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδην</persName> πίστευσαντες ἀυτῷ καὶ εἰς τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place96">Τρῶας</rs> παρελθόντες- δῆλον γὰρ ὡς οὐκ ἠπάτα φυλάττεσθαι παρὰ τοῖς πολεμΐοις μέλλων ⁑</p>
                </div>
                </div>
                <div n="138v_7" type="scholion">
