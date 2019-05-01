@@ -23,7 +23,7 @@
     <group n="10">
       <text n="e3">
         <body>
-          <div n="133v" type="scholion">
+          <div n="133v_1" type="scholion">
             <div n="lemma">
               <p><num value="1">α</num></p>
             </div>
@@ -36,7 +36,7 @@
                 κατὰ δὲ θείαν πρόνοιαν νυκτὸς αὐτὸν <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> ἀναιρεῖ⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_2" type="scholion">
             <div n="lemma">
               <p><num value="2">β</num></p>
             </div>
@@ -49,7 +49,7 @@
                 ὅτι καὶ τῶν ἐν τῷ ἰδίῳ στρατοπέδιῳ καλλίστων προδότης ἐγένετο⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_3" type="scholion">
             <div n="lemma">
               <p><num value="3">γ</num></p>
             </div>
@@ -65,7 +65,7 @@
                 οἱ δὲ\ πτώσεως μετάθεσιν τὸ τοιοῦτον ὠνόμασαν.⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_4" type="scholion">
             <div n="lemma">
               <p><num value="4">δ</num></p>
             </div>
@@ -77,7 +77,7 @@
                 ἢ ὡς ἀπο σεμνύνων πρὸς τὸ μὴ ἀναιρεθῆναι⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_5" type="scholion">
             <div n="lemma">
               <p><num value="5">ε</num></p>
             </div>
@@ -88,7 +88,7 @@
               <p>τὸ σμικροπρεπὲς τοῦ ἀνδρὸς ἄκρως κωμωδεῖ. ὅτι περὶ χρυσὸν ἐπτόηται⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_6" type="scholion">
             <div n="lemma">
               <p><num value="6">ϛ</num></p>
             </div>
@@ -102,7 +102,7 @@
                 δῆλον γὰρ ὡς οὐκ ἠπάτα φυλάττεσθαι παρὰ τοῖς πολεμίοις μέλλων⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_7" type="scholion">
             <div n="lemma">
               <p><num value="7">ζ</num></p>
             </div>
@@ -110,10 +110,10 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.446</p>
             </div>
             <div n="comment">
-              <p>ἑλληνικῶς ὁ κοινωνήσας αὐτῷ <choice><abbr>φιλανοις</abbr><corr>φιλανθρώποις</corr></choice> λόγοις οὐ φονεύει ἀλλ' ἄλλος⁑</p>
+              <p>ἑλληνικῶς ὁ κοινωνήσας αὐτῷ <choice><abbr>φιλανοις</abbr><corr>φιλανθρώποις</corr></choice> λόγοις οὐ φονεύει ἀλλ᾽ ἄλλος⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_8" type="scholion">
             <div n="lemma">
               <p><num value="8">η</num></p>
             </div>
@@ -123,10 +123,10 @@
             <div n="comment">
               <p>καὶ πῶς ᾔδεισαν αὐτοῦ τὸ ὄνομα- εἰκὸς ἦν ὡς κήρυκος ὑιὸν.
                 πολλάκις συμπαρεῖναι τῷ πατρί-
-                ἢ ἠρώτησαν κρατησαντες⁑</p>
+                ἢ ἠρώτησαν κρατήσαντες⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_9" type="scholion">
             <div n="lemma">
               <p><num value="9">θ</num></p>
             </div>
@@ -134,10 +134,10 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.450</p>
             </div>
             <div n="comment">
-              <p>ἐπεὶ οὐχ' Ἑλληνικὸν τὸ τὸν ἱκέτην ἀναιρεῖν, τροφασείς ἀναγκαίας περί εθηκεν- ἅμα δὲ καὶ ἄτοπον ἦν. αὐτὸν πἀλιν ὑποστρέφειν εἰς τὰς ναῖς- ἅμα δὲ καὶ ὡς προδότην ἀναιρεῖ- ὑπὸ γὰρ ἐλείνων μεμίσηται πρῶτον. οἵς τούς οἰκείους παρέδωκεν⁑</p>
+              <p>ἐπεὶ οὐχ' Ἑλληνικὸν τὸ τὸν ἱκέτην ἀναιρεῖν, προφασείς ἀναγκαίας περιέθηκεν- ἅμα δὲ καὶ ἄτοπον ἦν. αὐτὸν πἀλιν ὑποστρέφειν εἰς τὰς ναῦς- ἅμα δὲ καὶ ὡς προδότην ἀναιρεῖ- ὑπὸ γὰρ ἐκείνων μεμίσηται πρῶτον. οἵς τοὺς οἰκείους παρέδωκεν⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_10" type="scholion">
             <div n="lemma">
               <p><num value="10">ι</num></p>
             </div>
@@ -145,10 +145,10 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.454</p>
             </div>
             <div n="comment">
-              <p>ἀνόητος ὁ μετὰ τὴν τοιαύτην ἀπόκρισιν  μέλλων- τάχιστα δὲ αὐτὸν ὁποιητὴς ἀναιρεῖ, ἵνα μὴ φθάσῃ γονυπετῶν⁑</p>
+              <p>ἀνόητος ὁ μετὰ τὴν τοιαύτην ἀπόκρισιν λιπαρεῖν μέλλων- τάχιστα δὲ αὐτὸν ὁ ποιητὴς ἀναιρεῖ, ἵνα μὴ φθάσῃ γονυπετῶν⁑</p>
             </div>
           </div>
-          <div n="133v" type="scholion">
+          <div n="133v_11" type="scholion">
             <div n="lemma">
               <p><num value="11">ια</num></p>
             </div>
@@ -156,10 +156,10 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.457</p>
             </div>
             <div n="comment">
-              <p>ἅμα τῷ ἄρξασθαι φωνὴν ἀφεῖναι- πρὶν σαφηνισθῆναι τὸ λεγόμενον- καὶ ἀνῆλθε μὲν τὸ πνεῦμα μέχρι τοῦ στόματος. καὶ τὸν τόπον ὅλον πληρῶσαν. ἐξ εχύθη τῇ τμήσει τῆς κεφαλῆς- ὡς εἰ καὶ σωλῆνα τινὲς μεστὸν ὕδατος διατέμοιεν. ἡ μὲν τῆς ἐπεις ροῆς φορὰ εἴργεται- τὸ δὲ ἤδη διελθὸν. ἐκχεῖται⁑</p>
+              <p>ἅμα τῷ ἄρξασθαι φωνὴν ἀφεῖναι- πρὶν σαφηνισθῆναι τὸ λεγόμενον- καὶ ἀνῆλθε μὲν τὸ <choice><abbr>πνα</abbr><corr>πνεῦμα</corr></choice> μέχρι τοῦ στόματος. καὶ τὸν τόπον ὅλον πληρῶσαν. ἐξεχύθη τῇ τμήσει τῆς κεφαλῆς- ὡς εἰ καὶ σωλῆνα τινὲς μεστὸν ὕδατος διατέμοιεν. ἡ μὲν τῆς ἐπεις ροῆς φορὰ εἴργεται- τὸ δὲ ἤδη διελθὸν. ἐκχεῖται⁑</p>
             </div>
           </div>
-          <div n="134r" type="scholion">
+          <div n="134r_12" type="scholion">
             <div n="lemma">
               <p><num value="12">ιβ</num></p>
             </div>
@@ -172,7 +172,7 @@
               οἰκείως δὲ φονεύει μὲν <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> ἀνατίθησι δὲ <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεύς</persName>⁑</p>
             </div>
           </div>
-          <div n="134r" type="scholion">
+          <div n="134r_13" type="scholion">
             <div n="lemma">
               <p><num value="13">ιγ</num></p>
             </div>
@@ -180,11 +180,11 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.461</p>
             </div>
             <div n="comment">
-              <p>πανταχόθεν ἐκίνησε τὴν ἐνέργαιαν ἐκ τοῦ ἱκετεύειν μέλλοντος- ἐκ τῶν διακοπομένων ἀθρόως τενόντων-
-                ἐκ τῆς φθεγγομένησ κεφαλῆς μετὰ τὸ πεσεῖν- ἐκ τοῦ σκυλεύοντος τὰ ὅπλα καὶ εἰς ὕψος ἀνέχοντος⁑</p>
+              <p>πανταχόθεν ἐκίνησε τὴν ἐνέργειαν ἐκ τοῦ ἱκετεύειν μέλλοντος- ἐκ τῶν διακοπτομένων ἀθρόως τενόντων-
+                ἐκ τῆς φθεγγομένης κεφαλῆς μετὰ τὸ πεσεῖν- ἐκ τοῦ σκυλεύοντος τὰ ὅπλα καὶ εἰς ὕψος ἀνέχοντος⁑</p>
             </div>
           </div>
-          <div n="134r" type="scholion">
+          <div n="134r_14" type="scholion">
             <div n="lemma">
               <p><num value="14">ιδ</num></p>
             </div>
@@ -192,10 +192,10 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.463</p>
             </div>
             <div n="comment">
-              <p>ἐπιδόσεων καὶ δώρων ἀξιώσομεν- προτρεπικὸν δὲ τοῦτο εἰς συμμαχίαν⁑</p>
+              <p>ἐπιδόσεων καὶ δώρων ἀξιώσομεν- προτρεπτικὸν δὲ τοῦτο εἰς συμμαχίαν⁑</p>
             </div>
           </div>
-          <div n="134r" type="scholion">
+          <div n="134r_15" type="scholion">
             <div n="lemma">
               <p><num value="15">ιε</num></p>
             </div>
@@ -207,7 +207,7 @@
               τρισκαιδέκατος δὲ <persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσος</persName>⁑</p>
             </div>
           </div>
-          <div n="134r" type="scholion">
+          <div n="134r_16" type="scholion">
             <div n="lemma">
               <p><num value="16">ιϛ</num></p>
             </div>
@@ -216,10 +216,10 @@
             </div>
             <div n="comment">
               <p>ἐπιδιφριὰς. μέρος τοῦ δίφρου. καθὸ ἐπὶβαίνειν εἰώθασιν- ἔγνωσαν δὲ.
-                ἢ ἀπὸ τοῦ τὸν ῥῆσον μέσον εἶναι ἰδίᾳ. ἢ ἀπὸ τῆς τῶν ἵππων θέασ⁑</p>
+                ἢ ἀπὸ τοῦ τὸν <persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσον</persName> μέσον εἶναι ἰδίᾳ. ἢ ἀπὸ τῆς τῶν ἵππων θέας⁑</p>
             </div>
           </div>
-          <div n="134r" type="scholion">
+          <div n="134r_17" type="scholion">
             <div n="lemma">
               <p><num value="17">ιζ</num></p>
             </div>
@@ -231,7 +231,7 @@
                 τούτου λαβέσθαι ὀφείλει- εἶτα σοφῶς <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδει</persName> παρέχει τὴν αἵρεσιν⁑</p>
             </div>
           </div>
-          <div n="134r" type="scholion">
+          <div n="134r_18" type="scholion">
             <div n="lemma">
               <p><num value="18">ιη</num></p>
             </div>
