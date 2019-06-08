@@ -1,32 +1,27 @@
-# Leiden2018-alpha
+# Leiden2019
 
 Leiden work on Upsilon 1.1 (`e3`) and Venetus B (`vb`).
 
 ## Table of contents
-* https://github.com/hmteditors/leiden2018-alpha#current-editing-assignment
-* https://github.com/hmteditors/leiden2018-alpha#git-sequence
-* https://github.com/hmteditors/leiden2018-alpha#greek-counting
-* https://github.com/hmteditors/leiden2018-alpha#special-characters
-* https://github.com/hmteditors/leiden2018-alpha#useful-links
+* https://github.com/hmteditors/leiden2019#current-editing-assignment
+* https://github.com/hmteditors/leiden2019#git-sequence
+* https://github.com/hmteditors/leiden2019#greek-counting
+* https://github.com/hmteditors/leiden2019#special-characters
+* https://github.com/hmteditors/leiden2019#useful-links
 
 ## Current editing assignment
-* [Upsilon 1.1, folio 132 verso + 133 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_132v_133r): *Iliad* 10.387-410 and 10.411-434
-* [Venetus B, folio 137 verso + 138 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_137v_138r): *Iliad* 10.387-410 and 10.411-434
-
-## Second editing assignment
-
 (posted 12 Feb. 2019)
 
-- [Upsilon 1.1, folio 133 verso + 134 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_133v_134r)
-- [Venetus B, folio 138 verso + 139 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_138v_139r)
+* [Upsilon 1.1, folio 133 verso + 134 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_133v_134r): *Iliad* 10.435-458 and 10.459-482
+* [Venetus B, folio 138 verso + 139 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_138v_139r): *Iliad* 10.435-458 and 10.459-482
 
-[(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
+[(return to top)](https://github.com/hmteditors/leiden2019#leiden2019)
 
 ## git sequence
 First time:
 ```
-git clone https://github.com/hmteditors/leiden2018-alpha.git
-cd leiden2018-alpha
+git clone https://github.com/hmteditors/leiden2019.git
+cd leiden2019
 ```
 
 Afterwards:
@@ -51,7 +46,7 @@ git config --local user.name "github account name"
 git config --local user.email "github e-mail address"
 ```
 
-[(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
+[(return to top)](https://github.com/hmteditors/leiden2019#leiden2019)
 
 ## Greek counting
 α 1 \
@@ -84,7 +79,7 @@ git config --local user.email "github e-mail address"
 ω 800 \
 ϡ 900
 
-[(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
+[(return to top)](https://github.com/hmteditors/leiden2019#leiden2019)
 
 ## Special characters
 * · `U+00B7` interpunct (used as middle dot and high dot)
@@ -108,13 +103,14 @@ git config --local user.email "github e-mail address"
   * ͳ `U+0373` sampi lowercase, ancient
   * Ͳ `U+0372` sampi uppercase, ancient
 
-[(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
+[(return to top)](https://github.com/hmteditors/leiden2019#leiden2019)
 
 ## Useful links 
 * https://homermultitext.github.io/chsseminar/links/
 * https://homermultitext.github.io/chsseminar/scholion-markers/
 * https://homermultitext.github.io/facsimiles/
 * https://homermultitext.github.io/hmt-docs/tech/
+* https://github.com/homermultitext/hmt-textmodel/wiki/TEI-elements
 * https://interwing.nl/hmt/
 * https://homermultitext.slack.com
 
@@ -122,6 +118,7 @@ Other repositories:
 * https://github.com/hmteditors/2018-office5
 * https://github.com/hmteditors/2018-office8
 * https://github.com/hmteditors/2018-office10
+* https://github.com/hmteditors/leiden2018-alpha
 
-[(return to top)](https://github.com/hmteditors/leiden2018-alpha#leiden2018-alpha)
+[(return to top)](https://github.com/hmteditors/leiden2019#leiden2019)
 
